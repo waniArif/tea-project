@@ -131,8 +131,8 @@ p {
 }
 
 .section-title h3 {
-  font-family: var(--ff-secondary);
-
+  font-family: var(--ff-primary);
+  font-size: 100px;
   color: var(--clr-primary);
 }
 .section-title {
